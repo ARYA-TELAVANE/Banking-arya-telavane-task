@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+.nav-link{
+	margin-right: 15px;
+	color:#FDFEFE  ;font-family: Georgia, 'Times New Roman', Times, serif;
+	font-weight:bold;
+	font-size:21px;
+	letter-spacing: 0.5px;
+	transition: 0.5s;
+	
+}
+.nav-link:hover
+	{
+		color: #CCCCFF
+		
+		 
+	}
+.navbar-brand{
+	color: #FDFEFE;
+	font-size:21px;
+	font-weight:bold;
+	letter-spacing: 0.5px;
+}
+.navbar-brand:hover
+	{
+		color:#FDFEFE;
+	}
+h2{
+	color: #2C1A21;
+	letter-spacing: 0.5px;
+	font-family: raleway;
+}
